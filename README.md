@@ -1,6 +1,6 @@
 # flashcard
 
-A new Flutter project.
+This Project is fully made by me on Flutter.
 
 ## Getting Started
 
